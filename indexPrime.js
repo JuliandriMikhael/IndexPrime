@@ -11,3 +11,6 @@ function indexPrime(param1){
   }
   return primeNum
   }
+
+  var number = 0
+  var firstNumber = 2;
