@@ -14,3 +14,5 @@ function indexPrime(param1){
 
   var number = 0
   var firstNumber = 2;
+  while (number !== param1) {
+  if (findPrime(firstNumber)){
