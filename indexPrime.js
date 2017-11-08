@@ -22,3 +22,5 @@ function indexPrime(param1){
   }
   return firstNumber -1
   }
+
+  console.log(indexPrime(4)) //result => 7
