@@ -16,3 +16,7 @@ function indexPrime(param1){
   var firstNumber = 2;
   while (number !== param1) {
   if (findPrime(firstNumber)){
+    number++
+  }
+  firstNumber++
+  }
