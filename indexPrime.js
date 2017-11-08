@@ -20,3 +20,5 @@ function indexPrime(param1){
   }
   firstNumber++
   }
+  return firstNumber -1
+  }
